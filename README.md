@@ -28,5 +28,10 @@ Currently, I'm a Developer Relations Engineer creating content for developers (l
 
 The best place to find me is on [YouTube](https://youtube.com/@TravisMedia) where I'm consistently sharing all that I'm learning along the way. See you there!
 
-[![Travis's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodgtr1)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rodgtr1&theme=ayu-mirage" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodgtr1&layout=compact&langs_count=8&theme=ayu-mirage" />
+</a>
 
