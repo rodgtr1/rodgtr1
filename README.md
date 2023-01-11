@@ -31,6 +31,8 @@ The best place to find me is on [YouTube](https://youtube.com/@TravisMedia) wher
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=rodgtr1&theme=ayu-mirage" />
 </a>
+<br />
+<br />
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodgtr1&layout=compact&langs_count=8&theme=ayu-mirage" />
 </a>
