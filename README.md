@@ -1,10 +1,10 @@
-👋 Hi, I'm Travis
+## 👋 Hi, I'm Travis
 
 I was 34 years old in a job I hated when I decided to learn to code.
 
 I had only planned to stay in that job for 6 months while I looked for something better. And that 6 months unfortunately turned into 10 years.
 
-Time flies!
+Time flies! ✈️
 
 However, during the latter part of that 10 years I started a blog (non-dev related). That blog led me to having to learn a little HTML and CSS which I found thrilling; so much so that I ended up enrolling in a coding bootcamp.
 
