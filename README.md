@@ -25,3 +25,6 @@ I later made my way back into the corporate office as a software developer worki
 Currently, I'm a Developer Relations Engineer creating content for developers (like you), and interacting with dev communities. 
 
 The best place to find me is on YouTube where I'm consistently sharing all that I'm learning along the way. See you there!
+
+[![Travis's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodgtr1)](https://github.com/anuraghazra/github-readme-stats)
+
