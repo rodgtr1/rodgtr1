@@ -22,9 +22,11 @@ I went from working in WordPress/PHP for agencies to a 100% success score on Upw
 
 I later made my way back into the corporate office as a software developer working on large sites like Golf.com and eventually large-scale mission-critical systems as a DevOps engineer/SRE.
 
+That’s the short story. If you want more juicy details, watch [this video](https://youtu.be/UAgUmy7OMQs)
+
 Currently, I'm a Developer Relations Engineer creating content for developers (like you), and interacting with dev communities. 
 
-The best place to find me is on YouTube where I'm consistently sharing all that I'm learning along the way. See you there!
+The best place to find me is on [YouTube](https://youtube.com/@TravisMedia) where I'm consistently sharing all that I'm learning along the way. See you there!
 
 [![Travis's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodgtr1)](https://github.com/anuraghazra/github-readme-stats)
 
