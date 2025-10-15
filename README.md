@@ -32,7 +32,9 @@ The best place to find me is on [YouTube](https://youtube.com/@TravisMedia) wher
 - [HEIC converter](https://github.com/rodgtr1/heic-to-jpg-converter) - A fast and simple desktop application for converting HEIC/HEIF images to high-quality JPEG format. Built with Tauri and React for optimal performance and native feel.
 - [Worklog App](https://github.com/rodgtr1/worklog-app) - A cross-platform desktop application built with Tauri and React that helps you track daily work achievements using AI-powered organization.
 - [Profit First income calculator](https://github.com/rodgtr1/profit-first-income-calculator-desktop) - Break up your income according to customizable Profilt First methodology, as a Desktop GUI.
-- [All things homelab](https://github.com/rodgtr1/homelab) - Script for running K8s on two Raspberry Pi 5, and Helm charts for all apps running to include Traefik, cert manager, n8n, hoarder, postgres, etc. 
+- [All things homelab](https://github.com/rodgtr1/homelab) - Script for running K8s on two Raspberry Pi 5, and Helm charts for all apps running to include Traefik, cert manager, n8n, hoarder, postgres, etc.
+
+## Stats
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=rodgtr1&theme=ayu-mirage" />
