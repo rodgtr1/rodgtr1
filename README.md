@@ -20,13 +20,19 @@ And the rest is history … a history that’s documented on my [blog](https://t
 
 I went from working in WordPress/PHP for agencies to a 100% success score on Upwork. 
 
-I later made my way back into the corporate office as a software developer working on large sites like Golf.com and eventually large-scale mission-critical systems as a DevOps engineer/SRE.
+I later made my way back into the corporate office as a software developer working on large sites like Golf.com, to large-scale mission-critical systems as a DevOps engineer/SRE, and now find myself in the Developer Relations/Experience space.
 
 That’s the short story. If you want more juicy details, watch [this video](https://youtu.be/UAgUmy7OMQs)
 
-Currently, I'm a Developer Relations Engineer creating content for developers (like you), and interacting with dev communities. 
-
 The best place to find me is on [YouTube](https://youtube.com/@TravisMedia) where I'm consistently sharing all that I'm learning along the way. See you there!
+
+## Current Projects
+
+- [Astro Link Validator](https://github.com/rodgtr1/astro-link-validator) - Automatically validates links during your Astro build process with security-hardened validation and high-performance concurrent processing
+- [HEIC converter](https://github.com/rodgtr1/heic-to-jpg-converter) - A fast and simple desktop application for converting HEIC/HEIF images to high-quality JPEG format. Built with Tauri and React for optimal performance and native feel.
+- [Worklog App](https://github.com/rodgtr1/worklog-app) - A cross-platform desktop application built with Tauri and React that helps you track daily work achievements using AI-powered organization.
+- [Profit First income calculator](https://github.com/rodgtr1/profit-first-income-calculator-desktop) - Break up your income according to customizable Profilt First methodology, as a Desktop GUI.
+- [All things homelab](https://github.com/rodgtr1/homelab) - Script for running K8s on two Raspberry Pi 5, and Helm charts for all apps running to include Traefik, cert manager, n8n, hoarder, postgres, etc. 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=rodgtr1&theme=ayu-mirage" />
